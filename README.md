@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Introduction to RaspberryPi
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://richmccue.github.io/dsc-template/
