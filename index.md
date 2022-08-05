@@ -30,10 +30,10 @@ At the end of this workshop, you will be able to:
 6. Be able to wire simple breadboard circuits with an introductory level understanding of electronics.
 7. Have an understanding of what types of problems can be solved with a RaspberryPi.
 9. Complete one or more of the following sample projects:
-   - Chromium Kiosk Computer: https://pimylifeup.com/raspberry-pi-kiosk/
-   - Spotify Jukebox: https://pimylifeup.com/raspberry-pi-spotify/
-   - NearbyAirtraffic Tracker: https://pimylifeup.com/raspberry-pi-flightradar24/
-   - Networkwide Ad blocker: https://pimylifeup.com/raspberry-pi-pi-hole/
+   - [Chromium Kiosk Computer](https://pimylifeup.com/raspberry-pi-kiosk/){:target="_blank"}
+   - [Spotify Jukebox](https://pimylifeup.com/raspberry-pi-spotify/){:target="_blank"}
+   - [NearbyAirtraffic Tracker](https://pimylifeup.com/raspberry-pi-flightradar24/){:target="_blank"}
+   - [Networkwide Ad blocker](https://pimylifeup.com/raspberry-pi-pi-hole/){:target="_blank"}
    - Personal Minecraft (or any other server provided game) server
 
  
