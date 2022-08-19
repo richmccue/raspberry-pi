@@ -7,7 +7,7 @@ parent: Workshop Activities
 # Raspberry Pi: Retro Gaming with RetroPi
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Enjoy!
 
-# Installing Necessary Software
+## Installing Necessary Software
 - Install a copy of RetroPi at [this site](https://retropie.org.uk/download/){:target="_blank"} for the appropriate hardware.
 - After getting the image, run etcher and load the image onto the microSD card.
 - This may take a while, so as it loads, go to [this site](https://www.downloadroms.io/){:target="_blank"}  to find some ROMs you’d like to play! 
@@ -22,7 +22,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 - Ensure that the HOTBUTTON is set (suggest ENTER)
 
 
-# Downloading and Running New Game Software
+## Downloading and Running New Game Software
 - After downloading a couple of ROMs, we need to setup a USB stick to hold these ROMs.
 - With a blank USB stick, format it to a FAT32 or NTFS format
 - Create a file in the USB stick, and name it retropie
@@ -34,7 +34,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 - Load the ROMs into the retropie/roms folder
 - Now you can plug it back in and play.
 
-# Accessories
+## Accessories
 -  If you would like to do this at home, a USB game control will work well for most games.
 -  A keyboard and mouse are good things to have installed at all times. If something goes wrong you can quit to a terminal menu with the ctrl+f1 key combo.
 
