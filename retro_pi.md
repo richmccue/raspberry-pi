@@ -8,9 +8,9 @@ parent: Workshop Activities
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Enjoy!
 
 # Installing Necessary Software
-- Install a copy of RetroPi at this site https://retropie.org.uk/download/ for the appropriate hardware.
+- Install a copy of RetroPi at [this site](https://retropie.org.uk/download/){:target="_blank"} for the appropriate hardware.
 - After getting the image, run etcher and load the image onto the microSD card.
-- This may take a while, so as it loads, go to this site to find some ROMs you’d like to play! https://www.downloadroms.io/
+- This may take a while, so as it loads, go to [this site](https://www.downloadroms.io/){:target="_blank"}  to find some ROMs you’d like to play! 
 - Once finished, insert the microSD into the RaspberryPi and turn it on
 - You will now configure the game controller, for this lab, we will use the keyboard.
 - TO SKIP OTHER STEPS hold down any already bound key. Continue doing this for keys not listed.
@@ -38,10 +38,6 @@ If you have any questions or get stuck as you work through this in-class exercis
 -  If you would like to do this at home, a USB game control will work well for most games.
 -  A keyboard and mouse are good things to have installed at all times. If something goes wrong you can quit to a terminal menu with the ctrl+f1 key combo.
 
-
-
-- Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **UPDATE**
 [NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
