@@ -21,7 +21,6 @@ If you have any questions or get stuck as you work through this in-class exercis
 - At this point, you will skip a lot of buttons until the botbutton is reached at the bottom of the menu.
 - Ensure that the HOTBUTTON is set (suggest ENTER)
 
-
 ## Downloading and Running New Game Software
 - After downloading a couple of ROMs, we need to setup a USB stick to hold these ROMs.
 - With a blank USB stick, format it to a FAT32 or NTFS format
