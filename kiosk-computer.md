@@ -6,6 +6,7 @@ parent: Workshop Activities
 ---
 # Raspberry Pi: Kiosk Computer
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Enjoy!
+<img src="images/RasPi_kiosk.PNG" style="float:right;width:180px;height:180px;"> 
 
 ## Installing Necessary Software
 1. In order to set up the Raspberry Pi as a Kiosk Computer, you will need to significantly alter the Pi’s software.
