@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 4 - Kiosk Computer
-nav_order: 5
+title: 2 - Kiosk Computer
+nav_order: 4
 parent: Workshop Activities
 ---
 <img src="images/RasPi_kiosk.PNG" style="float:right;width:180px;" alt="image description">
@@ -11,7 +11,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 ## Installing Necessary Software
 1. In order to set up the Raspberry Pi as a Kiosk Computer, you will need to significantly alter the Pi’s software.
-  - The first handout has instructions on how to do so: http://bit.ly/2MCdL7r
+  - The [previous step](https://richmccue.github.io/raspberry-pi/set-up-RasPi.html){:target="_blank"} has instructions on how to do so: 
 2. Firstly, prepare the pi by entering these commands:
   - **sudo apt-get clean**
   - **sudo apt-get autoremove -y**
@@ -19,7 +19,7 @@ If you have any questions or get stuck as you work through this in-class exercis
   - **sudo apt-get update**
 4. This may take a while, so as it is updating, let’s set up the slides we will display.
   - You can display any website you like, or you can use a google slideshow.
-  - You can either create one now or use this one here:  http://bit.ly/dsc-signage2
+  - You can either create one now or use this one [here](http://bit.ly/dsc-signage2){:target="_blank"}.
 5. Once the Pi is done updating, install xdotool and sed using this command:
   - **Sudo apt-get install xdotool unclutter sed**
   - **Sudo apt-get install x11-xserver-utils**
@@ -39,12 +39,12 @@ If you have any questions or get stuck as you work through this in-class exercis
   - **Sudo nano /etc/lightdm/lightdm.conf**
 11. Now in this new nano window, find and uncomment (delete the # symbol) and edit this line:
   - **Xserver-command = X -s 0 -dpms**
-12. Reboot the Pi
+12. Reboot the Pi:
   - **Sudo reboot**
-13. To exit kiosk mode, do keystroke: **ctrl w**
+13. To exit kiosk mode, do keystroke: **ctrl w**.
 
 
 
 
 **UPDATE**
-[NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
+[NEXT STEP: Retro Pi](https://richmccue.github.io/raspberry-pi/retro_pi.html){: .btn .btn-blue }
