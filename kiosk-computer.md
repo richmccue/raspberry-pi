@@ -11,7 +11,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 ## Installing Necessary Software
 1. In order to set up the Raspberry Pi as a Kiosk Computer, you will need to significantly alter the Pi’s software.
-  - The [previous step](https://richmccue.github.io/raspberry-pi/set-up-RasPi.html){:target="_blank"} has instructions on how to do so: 
+  - The [previous step](https://richmccue.github.io/raspberry-pi/set-up-RasPi.html){:target="_blank"} has instructions on how to do so.
 2. Firstly, prepare the pi by entering these commands:
   - **sudo apt-get clean**
   - **sudo apt-get autoremove -y**
@@ -44,7 +44,4 @@ If you have any questions or get stuck as you work through this in-class exercis
 13. To exit kiosk mode, do keystroke: **ctrl w**.
 
 
-
-
-**UPDATE**
 [NEXT STEP: Retro Pi](https://richmccue.github.io/raspberry-pi/retro_pi.html){: .btn .btn-blue }
