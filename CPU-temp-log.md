@@ -38,11 +38,11 @@ parent: Workshop Activities
 
 **with open(“cpu_temp.csv”, “a”) as log:**
 
-	**while True:**             
+**while True:**             
 	
-		**temp = cpu.temperature**
+**temp = cpu.temperature**
 		
-		**log.write(‘{0},{1}\n’.format(strftime(‘%Y-%m-%d %H:%M:%S’), str(temp)))**
+**log.write(‘{0},{1}\n’.format(strftime(‘%Y-%m-%d %H:%M:%S’), str(temp)))**
 		
 6. Running this code will keep a log in the form of a CSV in the designated folder. This folder can be found in /home/pi and will be called cpu_temp.csv. 
 7. Try running the code and finding the file.
@@ -61,23 +61,23 @@ parent: Workshop Activities
 
 **with open(‘cpu_temp.csv’, ‘a’) as log:**
 
-		**log.write(‘{0},{1}\n’.format(strftime(‘%Y-%m-%d %H:%M:%S’), str(temp)))**
+**log.write(‘{0},{1}\n’.format(strftime(‘%Y-%m-%d %H:%M:%S’), str(temp)))**
 		
 **def graph(temp):**
 
-	**y.append(temp)**
-	**x.append(time())**
-	**plt.clf()**
-	**plt.scatter(x,y)**
-	**plt.plot(x,y)**
-	**plt.draw()**
+**y.append(temp)**
+**x.append(time())**
+**plt.clf()**
+**plt.scatter(x,y)**
+**plt.plot(x,y)**
+**plt.draw()**
 
 **while True:**
 
-	**temp = cpu.temperature**
-	**write_temp(temp)**
-	**graph(temp)**
-	**plt.pause(1)**
+**temp = cpu.temperature**
+**write_temp(temp)**
+**graph(temp)**
+**plt.pause(1)**
 
 10. Save and run this script to get a graph of the current cpu temperature.
 
