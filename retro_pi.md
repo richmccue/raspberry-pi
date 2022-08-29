@@ -38,5 +38,4 @@ If you have any questions or get stuck as you work through this in-class exercis
 -  A keyboard and mouse are good things to have installed at all times. If something goes wrong you can quit to a terminal menu with the ctrl+f1 key combo.
 
 
-**UPDATE**
-[NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
+[NEXT STEP: Retro Pi](https://richmccue.github.io/raspberry-pi/retro_pi.html){: .btn .btn-blue }
